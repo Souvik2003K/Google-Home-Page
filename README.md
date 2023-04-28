@@ -1,4 +1,4 @@
-# Home-Page-Google
+# Google-Home-Page
 
 A Clone of Google home page with no features just for show page.
 
